@@ -1,2 +1,2 @@
 # Learning Git
-Hello Git!
+Hello Git! How's it going?
