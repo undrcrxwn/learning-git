@@ -1,2 +1,2 @@
 # Learning Git
-Hello Git! This gotta be a conflict...
+Hello Git! <resolved merge-conflict>

@@ -1,5 +1,5 @@
 print('Application is running')
-print('Just another conflict')
+print('<resolved merge-conflict>')
 
 for i in range(5):
 	print('Iteration N', i + 1)
