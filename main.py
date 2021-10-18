@@ -1,5 +1,5 @@
 print('Application is running')
-print('See README.md to learn more')
+print('App v0.1')
 
 for i in range(5):
 	print('Iteration N', i + 1)
